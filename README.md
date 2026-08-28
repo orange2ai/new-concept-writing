@@ -86,6 +86,10 @@
 
 推荐模型：Opus 4.6。克制需要判断力，判断力需要算力。
 
+## 作者
+
+Orange + Cola + Claude 4.6
+
 ## License
 
 MIT
