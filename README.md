@@ -80,17 +80,9 @@
 
 ## 用法
 
-### 在 Cola 中
+发给你的 AI：
 
-放进 `~/.cola/skills/new-concept-writing/`。上传素材或口述经历，说“用新概念写作的方式写”。
-
-### 在任何 AI 中
-
-复制 `SKILL.md` 的内容，粘贴到你的对话框，然后说：
-
-> 请按照上面的规则，用这种克制叙事的方式，帮我写一篇关于 [xxx] 的故事。
-
-这个 Skill 就是一段文字。它能跟任何能读懂中文的模型一起工作。
+> 请读取 https://github.com/orange2ai/new-concept-writing 中的 SKILL.md，学会这套克制叙事的写法，然后用它帮我写一篇关于 [xxx] 的故事。
 
 推荐模型：Opus 4.6。克制需要判断力，判断力需要算力。
 
