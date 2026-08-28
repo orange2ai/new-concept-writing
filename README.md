@@ -102,13 +102,17 @@
 
 ---
 
+## 适合场景
+
+真实故事。你口述自己的经历，配合语音输入最佳，由 AI 用这套方法写成文章。
+
 ## 用法
 
 发给你的 AI：
 
 > 请读取 https://github.com/orange2ai/new-concept-writing 中的 SKILL.md，学会这套写法，然后用它帮我写一篇关于 [xxx] 的故事。
 
-推荐模型：Opus 4.6。
+可以在 [Cola](https://colaos.ai) 里使用。唯一推荐模型：Opus 4.6。
 
 ## 作者
 
